@@ -1,6 +1,6 @@
 ## Сайт проекта тезауруса «Евангельского текста» Ф. М. Достоевского
 На этом сайте опубликованы материалы проекта.
-- графы ([статические](https://github.com/thesaurus-dostoevsky/static-graphs), [динамические](https://github.com/thesaurus-dostoevsky/graphs))
+- графы ([статические](https://github.com/thesaurus-dostoevsky/static-graphs), [динамические](https://thesaurus-dostoevsky.github.io/graphs))
 - [словники](https://github.com/thesaurus-dostoevsky/slovniki)
 
 Участники:
