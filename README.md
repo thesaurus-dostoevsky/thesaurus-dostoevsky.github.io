@@ -2,6 +2,7 @@
 На этом сайте опубликованы материалы проекта.
 - графы ([статические](https://thesaurus-dostoevsky.github.io/static-graphs), [динамические](https://thesaurus-dostoevsky.github.io/graphs))
 - [словники](https://thesaurus-dostoevsky.github.io/slovniki)
+- [диаграммы (дополнительные исследования)](https://github.com/thesaurus-dostoevsky/additional_graphs)
 
 Участники:
 - Валентина Васильевна Борисова (БГПУ)
