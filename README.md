@@ -1,8 +1,10 @@
-## Сайт проекта «Терминологический словарь — тезаурус евангельского текста Ф.М. Достоевского».
+## Сайт проекта «Терминологический словарь — тезаурус евангельского текста Ф. М. Достоевского».
 На этом сайте опубликованы материалы проекта.
 - [словники](https://thesaurus-dostoevsky.github.io/slovniki)
 - графы ([статические](https://thesaurus-dostoevsky.github.io/static-graphs) и [динамические](https://thesaurus-dostoevsky.github.io/graphs))
 - [диаграммы и другие дополнительные визуальные материалы](https://thesaurus-dostoevsky.github.io/additional_charts)
+
+[Тезаурус евангельского текста Ф. М. Достоевского](https://thesaurus-dostoevsky.github.io/Thesaurus/)
 
 Участники:
 - Валентина Васильевна Борисова (БГПУ)
