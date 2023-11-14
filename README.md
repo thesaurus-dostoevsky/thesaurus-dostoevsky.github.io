@@ -9,7 +9,7 @@
 * [по рубрикам](https://thesaurus-dostoevsky.github.io/Thesaurus/)
 * [по алфавиту](https://thesaurus-dostoevsky.github.io/Thesaurus/alph)
 
-### [Список публикаций](https://thesaurus-dostoevsky.github.io/Thesaurus/papers) (в работе)
+### [Список публикаций](https://thesaurus-dostoevsky.github.io/papers) (в работе)
 
 Участники:
 - Валентина Васильевна Борисова (БГПУ) — руководитель, автор статей
