@@ -8,7 +8,7 @@
 ### Как пользоваться тезаурусом?
 * Вводная статья (в работе)
 
-### [Тезаурус евангельского текста Ф. М. Достоевского](https://thesaurus-dostoevsky.github.io/Thesaurus/)
+### [Тезаурус «евангельского текста»‎ Ф. М. Достоевского](https://thesaurus-dostoevsky.github.io/Thesaurus/)
 
 ### [Список публикаций](https://thesaurus-dostoevsky.github.io/papers) (в работе)
 
