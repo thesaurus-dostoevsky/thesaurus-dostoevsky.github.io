@@ -1,14 +1,13 @@
 ## Сайт проекта «Терминологический словарь-тезаурус "евангельского текста" Ф. М. Достоевского».
-На этом сайте опубликованы материалы проекта.
-- [словники](https://thesaurus-dostoevsky.github.io/slovniki)
-- графы ([статические](https://thesaurus-dostoevsky.github.io/static-graphs) и [динамические](https://thesaurus-dostoevsky.github.io/graphs))
-- [диаграммы и другие дополнительные визуальные материалы](https://thesaurus-dostoevsky.github.io/additional_charts)
-- [выборки терминов исторической поэтики и этнопоэтики](https://github.com/thesaurus-dostoevsky/samples)
-
 
 ### Словарь-тезаурус «евангельского текста»‎ Ф. М. Достоевского
 * Вводная статья (в работе)
 * [Словарные статьи](https://thesaurus-dostoevsky.github.io/Thesaurus/)
+
+### Материалы проекта
+- [словники](https://thesaurus-dostoevsky.github.io/slovniki)
+- графы ([статические](https://thesaurus-dostoevsky.github.io/static-graphs) и [динамические](https://thesaurus-dostoevsky.github.io/graphs))
+- [диаграммы и другие дополнительные визуальные материалы](https://thesaurus-dostoevsky.github.io/additional_charts)
 
 ### [Список публикаций по проекту](https://thesaurus-dostoevsky.github.io/papers) (в работе)
 
