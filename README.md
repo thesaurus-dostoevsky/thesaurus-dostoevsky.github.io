@@ -4,7 +4,7 @@
 * Вводная статья (в работе)
 * [Словарные статьи](https://thesaurus-dostoevsky.github.io/Thesaurus/)
 
-##### Материалы проекта:
+### Материалы проекта:
 - [словники](https://thesaurus-dostoevsky.github.io/slovniki)
 - графы ([статические](https://thesaurus-dostoevsky.github.io/static-graphs) и [динамические](https://thesaurus-dostoevsky.github.io/graphs))
 - [диаграммы и другие дополнительные визуальные материалы](https://thesaurus-dostoevsky.github.io/additional_charts)
