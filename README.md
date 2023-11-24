@@ -5,10 +5,10 @@
 - [диаграммы и другие дополнительные визуальные материалы](https://thesaurus-dostoevsky.github.io/additional_charts)
 - [выборки терминов исторической поэтики и этнопоэтики](https://github.com/thesaurus-dostoevsky/samples)
 
-### Как пользоваться тезаурусом?
-* Вводная статья (в работе)
 
-### [Тезаурус «евангельского текста»‎ Ф. М. Достоевского](https://thesaurus-dostoevsky.github.io/Thesaurus/)
+### Словарь-тезаурус «евангельского текста»‎ Ф. М. Достоевского
+* Вводная статья (в работе)
+* Словарные статьи (https://thesaurus-dostoevsky.github.io/Thesaurus/)
 
 ### [Список публикаций](https://thesaurus-dostoevsky.github.io/papers) (в работе)
 
