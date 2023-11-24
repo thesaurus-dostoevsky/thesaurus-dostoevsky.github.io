@@ -10,7 +10,7 @@
 * Вводная статья (в работе)
 * [Словарные статьи](https://thesaurus-dostoevsky.github.io/Thesaurus/)
 
-### [Список публикаций](https://thesaurus-dostoevsky.github.io/papers) (в работе)
+### [Список публикаций по проекту](https://thesaurus-dostoevsky.github.io/papers) (в работе)
 
 Участники:
 - Валентина Васильевна Борисова (БГПУ) — руководитель, автор статей
