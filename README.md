@@ -2,7 +2,9 @@
 
 ### Словарь-тезаурус «евангельского текста»‎ Ф. М. Достоевского
 * Вводная статья (в работе)
-* [Словарные статьи](https://thesaurus-dostoevsky.github.io/Thesaurus/)
+* Словарные статьи
+  * [по рубрикам](https://thesaurus-dostoevsky.github.io/Thesaurus/)
+  * [по алфавиту](https://thesaurus-dostoevsky.github.io/Thesaurus/alph)
 
 ### Материалы проекта:
 - [словники](https://thesaurus-dostoevsky.github.io/slovniki)
