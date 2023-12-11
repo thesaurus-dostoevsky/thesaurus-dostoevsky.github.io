@@ -8,7 +8,7 @@
 
 ### Материалы проекта:
 - [словники](https://thesaurus-dostoevsky.github.io/slovniki)
-- [графы](https://thesaurus-dostoevsky.github.io/graphs/graph)
+- [графы](https://thesaurus-dostoevsky.github.io/graphs)
 - [диаграммы и другие дополнительные визуальные материалы](https://thesaurus-dostoevsky.github.io/additional_charts)
 
 ### [Список публикаций по проекту](https://thesaurus-dostoevsky.github.io/Thesaurus/papers)
