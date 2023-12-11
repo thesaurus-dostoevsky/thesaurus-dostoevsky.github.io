@@ -11,7 +11,7 @@
 - [графы](https://thesaurus-dostoevsky.github.io/graphs/graph)
 - [диаграммы и другие дополнительные визуальные материалы](https://thesaurus-dostoevsky.github.io/additional_charts)
 
-### [Список публикаций по проекту](https://thesaurus-dostoevsky.github.io/papers) (в работе)
+### [Список публикаций по проекту](https://thesaurus-dostoevsky.github.io/Thesaurus/papers)
 
 ### Участники:
 - Валентина Васильевна Борисова (БГПУ) — руководитель проекта, автор словарных статей
